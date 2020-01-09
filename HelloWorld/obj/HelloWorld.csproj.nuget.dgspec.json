@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\3610\\hello-world-dotnet\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\vscode-workspace\\hello-world-dotnet\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\3610\\hello-world-dotnet\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\vscode-workspace\\hello-world-dotnet\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\3610\\hello-world-dotnet\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\vscode-workspace\\hello-world-dotnet\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\3610\\hello-world-dotnet\\HelloWorld\\HelloWorld.csproj",
-        "packagesPath": "C:\\Users\\swbas\\.nuget\\packages\\",
-        "outputPath": "C:\\3610\\hello-world-dotnet\\HelloWorld\\obj\\",
+        "projectPath": "C:\\vscode-workspace\\hello-world-dotnet\\HelloWorld\\HelloWorld.csproj",
+        "packagesPath": "C:\\Users\\Jake\\.nuget\\packages\\",
+        "outputPath": "C:\\vscode-workspace\\hello-world-dotnet\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\swbas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Jake\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"

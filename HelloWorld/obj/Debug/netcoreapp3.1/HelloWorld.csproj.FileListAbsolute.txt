@@ -9,3 +9,14 @@ C:\3610\hello-world-dotnet\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.Assembl
 C:\3610\hello-world-dotnet\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
 C:\3610\hello-world-dotnet\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
 C:\3610\hello-world-dotnet\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+C:\vscode-workspace\hello-world-dotnet\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+C:\vscode-workspace\hello-world-dotnet\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+C:\vscode-workspace\hello-world-dotnet\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+C:\vscode-workspace\hello-world-dotnet\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+C:\vscode-workspace\hello-world-dotnet\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+C:\vscode-workspace\hello-world-dotnet\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+C:\vscode-workspace\hello-world-dotnet\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csprojAssemblyReference.cache
+C:\vscode-workspace\hello-world-dotnet\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+C:\vscode-workspace\hello-world-dotnet\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+C:\vscode-workspace\hello-world-dotnet\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+C:\vscode-workspace\hello-world-dotnet\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
